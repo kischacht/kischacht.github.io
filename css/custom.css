@@ -244,3 +244,7 @@ a.darken:hover img {
     opacity: 0.7;
             
 }
+
+blockquote {
+    font-size: 14.5px;
+  }
